@@ -15,13 +15,9 @@
   <img align="center" alt="Alex-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Alex-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Alex-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Alex-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
+  <img align="right" alt="Alex-yoda" src="https://64.media.tumblr.com/d4db5bbb04c3f5979aead61428bb4412/tumblr_mk01k8Cv9h1rk52p5o1_500.gif">
 </div>
-  
-<p>
-  My name is Alex, I am 22 years old and I am currently a student of Software Engineering. I work as a systems analyst, and I am completely passionate about frontend. 
-</p>
-  
+    
 ### My contacts
 - Linkedin: www.linkedin.com/in/alex-dll 👨‍🔬
 - Email : alexsandrojr.303@gmail.com 📩
