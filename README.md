@@ -28,4 +28,6 @@
   
   ##
   
+  ![Snake animation](https://github.com/Alex-dll/Alex-dll/blob/output/github-contribution-grid-snake.svg)
+  
 ### "Show me your best" 🦸‍♂️
