@@ -1,7 +1,6 @@
 # hello my friend 👨‍💻
 #### Welcome to my github 🤗
 
-  ##
 
 <div>
   <a href="https://github.com/Alex-dll">
