@@ -15,7 +15,7 @@
   <img align="center" alt="Alex-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Alex-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Alex-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img width="15" height="15" frameBorder="0" src="https://giphy.com/gifs/studio-ghibli-spirited-away-ZZv4cIy21A23e" />
+  <img width="15" height="15" src="https://giphy.com/gifs/studio-ghibli-spirited-away-ZZv4cIy21A23e" />
 </div>
     
 ### My contacts
