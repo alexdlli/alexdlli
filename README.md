@@ -3,8 +3,8 @@
 
 <div>
   <a href="https://github.com/Alex-dll">
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=Alex-dll&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-dll&&layout=compact&hide=shell&theme=jolly"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alex-dll&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-dll&&layout=compact&hide=shell&theme=jolly"/>
 </div>
   
 <div style="display: inline_block"><br>
