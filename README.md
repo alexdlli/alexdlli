@@ -15,7 +15,7 @@
   <img align="center" alt="Alex-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Alex-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Alex-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Alex-yoda" src="https://64.media.tumblr.com/d4db5bbb04c3f5979aead61428bb4412/tumblr_mk01k8Cv9h1rk52p5o1_500.gif">
+  <img align="right" heigth="32px" alt="Alex-yoda" src="https://64.media.tumblr.com/d4db5bbb04c3f5979aead61428bb4412/tumblr_mk01k8Cv9h1rk52p5o1_500.gif">
 </div>
     
 ### My contacts
