@@ -1,4 +1,3 @@
-# hello my friend 👨‍💻
 ### Welcome to my github 🤗
 [![Linkedin Badge](https://img.shields.io/badge/-Alex%20Sandro-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alex-dll/)](https://www.linkedin.com/in/alex-dll/) 
 [![Gmail Badge](https://img.shields.io/badge/-alexsandro303.jr@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexsandro303.jr@gmail.com)](mailto:alexsandro303.jr@gmail.com)
