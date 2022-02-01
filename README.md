@@ -1,5 +1,7 @@
 # hello my friend 👨‍💻
 ### Welcome to my github 🤗
+[![Linkedin Badge](https://img.shields.io/badge/-Alex%20Sandro-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alex-dll/)](https://www.linkedin.com/in/alex-dll/) 
+[![Gmail Badge](https://img.shields.io/badge/-alexsandro303.jr@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexsandro303.jr@gmail.com)](mailto:alexsandro303.jr@gmail.com)
 
 Enthusiast of the best web & mobile development technologies.
 
@@ -17,18 +19,6 @@ I love computer👨‍💻 and video games🎮, skateboarding always accompanies
 ![Snake animation](https://github.com/Alex-dll/Alex-dll/blob/output/github-contribution-grid-snake.svg)
 
 ##
-
-<div>
-  <a href="https://github.com/Alex-dll">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alex-dll&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-dll&&layout=compact&hide=shell&theme=jolly"/>
-</div>
-  
-  
-<div>
-  <a href = "mailto:alexsandrojr.303@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alex-sandro-4a80a7189" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </div>
   
 
 ### "Show me your best" 🦸‍♂️
