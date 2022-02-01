@@ -1,9 +1,11 @@
 # hello my friend 👨‍💻
 #### Welcome to my github 🤗
 
-  ##
+##
   
-  ![Snake animation](https://github.com/Alex-dll/Alex-dll/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Alex-dll/Alex-dll/blob/output/github-contribution-grid-snake.svg)
+
+##
 
 <div>
   <a href="https://github.com/Alex-dll">
