@@ -1,6 +1,13 @@
 # hello my friend 👨‍💻
 #### Welcome to my github 🤗
 
+Enthusiast of the best web & mobile development technologies.
+Having the power in your hands to create everything you can dream of is a wonderful thing. It's not an easy task, but I've decided to take responsibility for turning those dreams into lush interfaces for their respective dreamers.
+As a front-end developer I have this power on my keyboard and I want to develop our dreams by taking advantage of technologies that further increase the potential of having beautiful interfaces.
+I am passionate about learning any technology that provides me with knowledge.
+I love computer and video games, skateboarding always accompanies me wherever I go, and anime is part of my life.
+
+
 ##
   
 ![Snake animation](https://github.com/Alex-dll/Alex-dll/blob/output/github-contribution-grid-snake.svg)
