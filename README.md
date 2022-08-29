@@ -6,7 +6,7 @@ Enthusiast of the best web & mobile development technologies.
 
 Having the power in your hands to create everything you can dream of is a wonderful thing. It's not an easy task, but I've decided to take responsibility for turning those dreams into lush interfaces for their respective dreamers.
 
-As a front-end developer I have this power on my keyboard and I want to develop our dreams by taking advantage of technologies that further increase the potential of having beautiful interfaces.
+As a mobile and front-end developer I have this power on my keyboard and I want to develop our dreams by taking advantage of technologies that further increase the potential of having beautiful interfaces.
 
 I am passionate about learning any technology that provides me with knowledge.
 
