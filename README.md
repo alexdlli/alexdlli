@@ -12,11 +12,6 @@ I am passionate about learning any technology that provides me with knowledge.
 
 I love computer👨‍💻 and video games🎮, skateboarding always accompanies me wherever I go🛹, and anime is part of my life🎍.
 
-
-##
-  
-![Snake animation](https://github.com/Alex-dll/Alex-dll/blob/output/github-contribution-grid-snake.svg)
-
 ##
   
 
